@@ -10,8 +10,14 @@
 - 📄 Know about my experiences **https://drive.google.com/file/d/15ze_9PYx33K_loznYSKn4PUWv-vmR813/view?usp=sharing**
 
   ## Certifications
+  
+### IBM Data Science Professional Certificate
 
-*   **[IBM Data Science]** | ![IBM Certificate](https://github.com/Drook93/test/blob/main/IBM%20Cert.png) | Year (2024) | [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JVZ4MT4JQGDS)
+<img src="https://github.com/Drook93/test/blob/main/IBM%20Cert.png?raw=true" width="400" alt="IBM Certificate"/>
+
+**Year:** 2024  
+[View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JVZ4MT4JQGDS)
+
 *   **[Another Certificate]** | [Another Institution](link-to-another-institution) | Year (e.g., 2024) | [View Certificate](link-to-another-certificate)
 
 <h3 align="left">Connect with me:</h3>
