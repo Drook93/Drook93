@@ -15,10 +15,15 @@
 
 <img src="https://github.com/Drook93/test/blob/main/IBM%20Cert.png?raw=true" width="400" alt="IBM Certificate"/>
 
-**Year:** 2024  
-[View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JVZ4MT4JQGDS)
+**Year:** July, 2024  
+[View Certificate Link](https://www.coursera.org/account/accomplishments/professional-cert/JVZ4MT4JQGDS)
 
-*   **[Another Certificate]** | [Another Institution](link-to-another-institution) | Year (e.g., 2024) | [View Certificate](link-to-another-certificate)
+### Python Development Course
+
+<img src="https://github.com/Drook93/test/blob/main/Python%20Cert.png?raw=true" width="400" alt="IBM Certificate"/>
+
+ **Year:** Feb, 2024
+ [View Certificate Link](https://www.learnx.org/certificate/eac3a27f-403f-46c1-8f8f-44c9fd22ad47)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
