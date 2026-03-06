@@ -28,7 +28,7 @@
 
 <td width="50%" align="center">
 
-### Project 1 ONS Government Public Sending Forecast
+### Project 1 ONS Government Public Sending Forecast 📈
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Drook93/ONS-Govenment-Public-Spending-Forecast/main/Project%20Images/opengraph.png" width="70%">
@@ -45,13 +45,13 @@ This project focuses on building and evaluating regression models for time serie
 
 <td width="50%" align="center">
 
-### Project 2 Global Video Game Sales
+### Project 2 Global Video Game Sales 🎮
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Global-Video-Game-Sales/main/Tableau%20Dashboard/Images%20%26%20Videos/Video%20Game%20Sales%20Banner-1.png" width="200%">
 </div>
 
-Building Tableau dashboard using Kaggle dataset for Global Video Game Sales. Building and testing predictive model for time series forecasting using Profit, carrying ETL and EDA.
+Building a Tableau dashboard using Kaggle dataset for global video game sales. Building and testing a predictive model for time-series forecasting using Profit; carrying out ETL and EDA.
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/Global-Video-Game-Sales/blob/main/Tableau%20Dashboard%20gif.gif" width="100%" />
@@ -67,7 +67,7 @@ Building Tableau dashboard using Kaggle dataset for Global Video Game Sales. Bui
 
 <td width="50%" align="center">
 
-### Project 3 IBM Data Science Capstonen SpaceX
+### Project 3 IBM Data Science Capstone SpaceX 🚀
 
 <p align="center">
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Side%201%20Image_page-0001.jpg" width="70%">
@@ -78,19 +78,13 @@ As an aspiring data scientist of a startup business poised against SpaceX, the e
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Space%20X%20Capstone%20Powerpoint%20gif.gif" width="100%" />
 </a>
 
-
-
-<a href="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/tree/main">
-  <img src="IMAGE_OR_GIF_LINK_HERE" width="100%" />
-</a>
-
-🔗 (PROJECT_LINK_HERE)
+🔗 [View Project](PROJECT_LINK_HERE)
 
 </td>
 
 <td width="50%" align="center">
 
-### Project 4 Webscraping Best Selling Books With Data Analytics
+### Project 4 Webscraping Best Selling Books With Data Analytics 🔍📚
 
 <p align="center">
   <img src="https://github.com/Drook93/Webscrape-Books/blob/master/web-scraping-data-image.png" width="70%">
@@ -102,11 +96,8 @@ The primary goal was to extract, clean, and transform the data into a MYSQL data
   <img src="https://github.com/Drook93/Webscrape-Books/blob/master/Best%20Selling%20Books%20Dashboard.gif" width="100%" />
 </a>
 
-<a href="PROJECT_LINK_HERE">
-  <img src="IMAGE_OR_GIF_LINK_HERE" width="100%" />
-</a>
 
-🔗(PROJECT_LINK_HERE)
+🔗 [View Project](PROJECT_LINK_HERE)
 
 </td>
 
@@ -124,11 +115,8 @@ The primary goal was to extract, clean, and transform the data into a MYSQL data
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-rook-0b9bb0182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-rook-0b9bb0182/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/search/top/?q=david%20rook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/search/top/?q=david%20rook" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drook93&show_icons=true&locale=en&layout=compact" alt="drook93" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drook93&" alt="drook93" /></p>
