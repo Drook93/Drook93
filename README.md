@@ -84,7 +84,7 @@ As an aspiring data scientist of a startup business poised against SpaceX, the e
   <img src="IMAGE_OR_GIF_LINK_HERE" width="100%" />
 </a>
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 (PROJECT_LINK_HERE)
 
 </td>
 
@@ -102,20 +102,11 @@ The primary goal was to extract, clean, and transform the data into a MYSQL data
   <img src="https://github.com/Drook93/Webscrape-Books/blob/master/Best%20Selling%20Books%20Dashboard.gif" width="100%" />
 </a>
 
-
-
-
-
-
-
-
-Short one-sentence description of what the project does.
-
 <a href="PROJECT_LINK_HERE">
   <img src="IMAGE_OR_GIF_LINK_HERE" width="100%" />
 </a>
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗(PROJECT_LINK_HERE)
 
 </td>
 
