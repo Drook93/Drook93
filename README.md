@@ -9,6 +9,95 @@
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/15ze_9PYx33K_loznYSKn4PUWv-vmR813/view?usp=sharing**
 
+## Programming Languages and Libiraries 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+## Data Visulalisation Tools & BI Tools
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### Project 1 ONS Government Public Sending Forecast
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/ONS-Govenment-Public-Spending-Forecast/main/Project%20Images/opengraph.png" width="70%">
+</p>
+This project focuses on building and evaluating regression models for time series data across 12 sectors for consumer spending. The goal is to predict sector-specific outcomes using lagged features from a dataset, optimizing model performance with hyperparameter tuning and cross-validation.
+
+<a href="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast">
+  <img src="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast/blob/main/Project%20Images/Dashboard.gif" width="100%" />
+</a>
+
+🔗 [View Project](PROJECT_LINK_HERE)
+
+</td>
+
+<td width="50%" align="center">
+
+### Project 2 Global Video Game Sales
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Global-Video-Game-Sales/main/Tableau%20Dashboard/Images%20%26%20Videos/Video%20Game%20Sales%20Banner-1.png" width="200%">
+</div>
+
+Building Tableau dashboard using Kaggle dataset for Global Video Game Sales. - Building and testing predictive model for time series forecasting using Profit, carrying ETL and EDA.
+
+<a href="https://github.com/Drook93/Global-Video-Game-Sales">
+  <img src="https://github.com/Drook93/Global-Video-Game-Sales/blob/main/Tableau%20Dashboard%20gif.gif" width="100%" />
+</a>
+
+🔗 [View Project](PROJECT_LINK_HERE)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### Project 3 Title
+
+Short one-sentence description of what the project does.
+
+<a href="PROJECT_LINK_HERE">
+  <img src="IMAGE_OR_GIF_LINK_HERE" width="100%" />
+</a>
+
+🔗 [View Project](PROJECT_LINK_HERE)
+
+</td>
+
+<td width="50%" align="center">
+
+### Project 4 Title
+
+Short one-sentence description of what the project does.
+
+<a href="PROJECT_LINK_HERE">
+  <img src="IMAGE_OR_GIF_LINK_HERE" width="100%" />
+</a>
+
+🔗 [View Project](PROJECT_LINK_HERE)
+
+</td>
+
+</tr>
+</table>
+
+
+
   ## Certifications
   
 ### IBM Data Science Professional Certificate
