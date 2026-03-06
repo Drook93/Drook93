@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/15ze_9PYx33K_loznYSKn4PUWv-vmR813/view?usp=sharing**
 
-## Programming Languages and Libiraries 
+## Programming Languages and Libraries 📖
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
@@ -21,6 +21,7 @@
 ## Data Visulalisation Tools & BI Tools
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+
 ## 🚀 Featured Projects
 
 <table>
@@ -51,7 +52,7 @@ This project focuses on building and evaluating regression models for time serie
   <img src="https://raw.githubusercontent.com/Drook93/Global-Video-Game-Sales/main/Tableau%20Dashboard/Images%20%26%20Videos/Video%20Game%20Sales%20Banner-1.png" width="200%">
 </div>
 
-Building Tableau dashboard using Kaggle dataset for Global Video Game Sales. - Building and testing predictive model for time series forecasting using Profit, carrying ETL and EDA.
+Building Tableau dashboard using Kaggle dataset for Global Video Game Sales. Building and testing predictive model for time series forecasting using Profit, carrying ETL and EDA.
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/Global-Video-Game-Sales/blob/main/Tableau%20Dashboard%20gif.gif" width="100%" />
