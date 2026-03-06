@@ -68,12 +68,16 @@ Building Tableau dashboard using Kaggle dataset for Global Video Game Sales. - B
 <td width="50%" align="center">
 
 ### Project 3 IBM Data Science Capstonen SpaceX
+
 <p align="center">
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Side%201%20Image_page-0001.jpg" width="70%">
 </p>
-
-
 As an aspiring data scientist of a startup business poised against SpaceX, the end product of this project will be a machine learning pipeline to predict the landing outcome of Falcon 9 - the first stage of any rocket. This is important work to ensure an appropriate price can be bid against SpaceX rocket launches.
+
+<a href="https://github.com/Drook93/Global-Video-Game-Sales">
+  <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Space%20X%20Capstone%20Powerpoint%20gif.gif" width="100%" />
+</a>
+
 
 
 <a href="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/tree/main">
