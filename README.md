@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Rook</h1>
 <h3 align="center">Aspiring Data Scientist & Analyst | Lifelong Learner 📖</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drook93" alt="drook93" /></a> </p>
 
 - 🔭 I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast.git)
 
