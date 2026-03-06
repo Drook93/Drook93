@@ -67,11 +67,16 @@ Building Tableau dashboard using Kaggle dataset for Global Video Game Sales. - B
 
 <td width="50%" align="center">
 
-### Project 3 Title
+### Project 3 IBM Data Science Capstonen SpaceX
+<p align="center">
+  <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Side%201%20Image_page-0001.jpg" width="70%">
+</p>
 
-Short one-sentence description of what the project does.
 
-<a href="PROJECT_LINK_HERE">
+As an aspiring data scientist of a startup business poised against SpaceX, the end product of this project will be a machine learning pipeline to predict the landing outcome of Falcon 9 - the first stage of any rocket. This is important work to ensure an appropriate price can be bid against SpaceX rocket launches.
+
+
+<a href="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/tree/main">
   <img src="IMAGE_OR_GIF_LINK_HERE" width="100%" />
 </a>
 
@@ -81,7 +86,24 @@ Short one-sentence description of what the project does.
 
 <td width="50%" align="center">
 
-### Project 4 Title
+### Project 4 Webscraping Best Selling Books With Data Analytics
+
+<p align="center">
+  <img src="https://github.com/Drook93/Webscrape-Books/blob/master/web-scraping-data-image.png" width="70%">
+</p>
+The project involved Web Scraping a website with a catalogue of books using Python.
+The primary goal was to extract, clean, and transform the data into a MYSQL database, which would then be queried and visualised in Power BI to identify meaningful insights.
+
+<a href="https://github.com/Drook93/Global-Video-Game-Sales">
+  <img src="https://github.com/Drook93/Webscrape-Books/blob/master/Best%20Selling%20Books%20Dashboard.gif" width="100%" />
+</a>
+
+
+
+
+
+
+
 
 Short one-sentence description of what the project does.
 
@@ -96,23 +118,12 @@ Short one-sentence description of what the project does.
 </tr>
 </table>
 
+## Certifications
 
-
-  ## Certifications
-  
-### IBM Data Science Professional Certificate
-
-<img src="https://github.com/Drook93/test/blob/main/IBM%20Cert.png?raw=true" width="400" alt="IBM Certificate"/>
-
-**Year:** July, 2024  
-[View Certificate Link](https://www.coursera.org/account/accomplishments/professional-cert/JVZ4MT4JQGDS)
-
-### Python Development Course
-
-<img src="https://github.com/Drook93/test/blob/main/Python%20Cert.png?raw=true" width="400" alt="IBM Certificate"/>
-
- **Year:** Feb, 2024
- [View Certificate Link](https://www.learnx.org/certificate/eac3a27f-403f-46c1-8f8f-44c9fd22ad47)
+| **IBM Data Science Professional Certificate** | **Python Development Course** |
+|-----------------------------------------------|------------------------------|
+| <img src="https://github.com/Drook93/test/blob/main/IBM%20Cert.png?raw=true" width="550"/> | <img src="https://github.com/Drook93/test/blob/main/Python%20Cert.png?raw=true" width="550"/> |
+| **Year:** July, 2024 <br> [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JVZ4MT4JQGDS) | **Year:** Feb, 2024 <br> [View Certificate](https://www.learnx.org/certificate/eac3a27f-403f-46c1-8f8f-44c9fd22ad47) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
