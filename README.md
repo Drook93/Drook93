@@ -1,5 +1,5 @@
 
-<h3 align="center">Aspiring Data Scientist & Analyst | Lifelong Learner 📖</h3>
+<h3 align="center">Aspiring Data Scientist & Analyst | Life long Learner 📖</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
@@ -48,7 +48,7 @@
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 
-- 🔭 I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast.git)
+I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast.git)
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
