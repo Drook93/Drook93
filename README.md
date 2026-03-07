@@ -85,7 +85,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://raw.githubusercontent.com/Drook93/Global-Video-Game-Sales/main/Tableau%20Dashboard/Images%20%26%20Videos/Video%20Game%20Sales%20Banner-1.png" width="200%">
 </div>
 
-**Built a Tableau dashboard using Kaggle Video Game dataset. Built and test/tuned a predictive model (Prophet) for time-series forecasting; carrying out ETL and EDA.**
+**This project forecasts global video game sales and using Prophet model on Kaggle's dataset which included the following features: Game-Name, Platform, Release Year, Genre, Publisher, Global Sales and Regional Sales breakdown. I cleaned the data in pandas. Built, trained/tuned Prophet and ran developed a Tableau dashboard for the findings. Utilised the native forecasting tool to predict one year ahead into 2017, then compared it against Prophet's metrics.**
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/Global-Video-Game-Sales/blob/main/Tableau%20Dashboard%20gif.gif" width="100%" />
