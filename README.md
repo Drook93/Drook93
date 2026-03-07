@@ -73,7 +73,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast/blob/main/Project%20Images/Dashboard.gif" width="100%" />
 </a>
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 🔗 [View Project](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast)
 
 </td>
 
@@ -91,7 +91,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://github.com/Drook93/Global-Video-Game-Sales/blob/main/Tableau%20Dashboard%20gif.gif" width="100%" />
 </a>
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/Drook93/Global-Video-Game-Sales)
 
 </td>
 
@@ -111,7 +111,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Space%20X%20Capstone%20Powerpoint%20gif.gif" width="100%" />
 </a>
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX)
 
 </td>
 
@@ -131,7 +131,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
 </a>
 
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/Drook93/Webscrape-Books)
 
 </td>
 
