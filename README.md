@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Rook</h1>
 <h3 align="center">Aspiring Data Scientist & Analyst | Lifelong Learner 📖</h3>
 
+![Snake animation](https://github.com/Drook93/Work-flow-Assets/blob/output/github-snake.svg)
 
 - 🔭 I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast.git)
 
