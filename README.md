@@ -1,4 +1,5 @@
 
+<h3 align="center">Aspiring Data Scientist & Analyst | Lifelong Learner 📖</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
@@ -19,8 +20,6 @@
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
 </div>
 
-
-<h3 align="center">Aspiring Data Scientist & Analyst | Lifelong Learner 📖</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/output/github-snake.svg" width="600" height="200"/>
@@ -67,7 +66,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Drook93/ONS-Govenment-Public-Spending-Forecast/main/Project%20Images/opengraph.png" width="70%">
 </p>
-This project focuses on building and evaluating regression models for time series data across 12 sectors for consumer spending. The goal is to predict sector-specific outcomes using lagged features from a dataset, optimising model performance with hyperparameter tuning and cross-validation.
+
+**This project focuses on building and evaluating regression models for time series data across 12 sectors for consumer spending. The goal is to predict sector-specific outcomes using lagged features from a dataset, optimising model performance with hyperparameter tuning and cross-validation.**
 
 <a href="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast">
   <img src="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast/blob/main/Project%20Images/Dashboard.gif" width="100%" />
@@ -78,14 +78,14 @@ This project focuses on building and evaluating regression models for time serie
 </td>
 
 <td width="50%" align="center">
-
+  
 ### Project 2 Global Video Game Sales 🎮
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Global-Video-Game-Sales/main/Tableau%20Dashboard/Images%20%26%20Videos/Video%20Game%20Sales%20Banner-1.png" width="200%">
 </div>
 
-Building a Tableau dashboard using Kaggle dataset for global video game sales. Building and testing a predictive model for time-series forecasting using Profit; carrying out ETL and EDA.
+**Building a Tableau dashboard using Kaggle dataset for global video game sales. Building and testing a predictive model for time-series forecasting using Profit; carrying out ETL and EDA.**
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/Global-Video-Game-Sales/blob/main/Tableau%20Dashboard%20gif.gif" width="100%" />
@@ -97,8 +97,6 @@ Building a Tableau dashboard using Kaggle dataset for global video game sales. B
 
 </tr>
 
-<tr>
-
 <td width="50%" align="center">
 
 ### Project 3 IBM Data Science Capstone SpaceX 🚀
@@ -106,7 +104,8 @@ Building a Tableau dashboard using Kaggle dataset for global video game sales. B
 <p align="center">
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Side%201%20Image_page-0001.jpg" width="70%">
 </p>
-As an aspiring data scientist of a startup business poised against SpaceX, the end product of this project will be a machine learning pipeline to predict the landing outcome of Falcon 9 - the first stage of any rocket. This is important work to ensure an appropriate price can be bid against SpaceX rocket launches.
+
+**As an aspiring data scientist of a startup business poised against SpaceX, the end product of this project will be a machine learning pipeline to predict the landing outcome of Falcon 9 - the first stage of any rocket. This is important work to ensure an appropriate price can be bid against SpaceX rocket launches.**
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Space%20X%20Capstone%20Powerpoint%20gif.gif" width="100%" />
@@ -123,8 +122,9 @@ As an aspiring data scientist of a startup business poised against SpaceX, the e
 <p align="center">
   <img src="https://github.com/Drook93/Webscrape-Books/blob/master/web-scraping-data-image.png" width="70%">
 </p>
-The project involved Web Scraping a website with a catalogue of books using Python.
-The primary goal was to extract, clean, and transform the data into a MYSQL database, which would then be queried and visualised in Power BI to identify meaningful insights.
+
+**The project involved Web Scraping a website with a catalogue of books using Python.**
+**The primary goal was to extract, clean, and transform the data into a MYSQL database, which would then be queried and visualised in Power BI to identify meaningful insights.**
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/Webscrape-Books/blob/master/Best%20Selling%20Books%20Dashboard.gif" width="100%" />
