@@ -9,14 +9,16 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
+
+![](https://img.shields.io/badge/See%20my%20project%20portfolio%20overview%20below-FF0000?style=for-the-badge)
+
+
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=50&lines=See+project+overview+below+👇)](https://git.io/typing-svg)
-
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
 </div>
+
 
 <h3 align="center">Aspiring Data Scientist & Analyst | Lifelong Learner 📖</h3>
 
@@ -25,16 +27,16 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
 </div>
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/15ze_9PYx33K_loznYSKn4PUWv-vmR813/view?usp=sharing**
+**Know about my experiences:** **https://drive.google.com/file/d/15ze_9PYx33K_loznYSKn4PUWv-vmR813/view?usp=sharing** 📄
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
 </div>
 
-## Programming Languages and Libraries 📖
+### Programming Languages and Libraries 📖
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
@@ -43,7 +45,7 @@
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-## Data Visulalisation Tools & BI Tools
+### Data Visulalisation Tools & BI Tools
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 
@@ -53,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -65,7 +67,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Drook93/ONS-Govenment-Public-Spending-Forecast/main/Project%20Images/opengraph.png" width="70%">
 </p>
-This project focuses on building and evaluating regression models for time series data across 12 sectors for consumer spending. The goal is to predict sector-specific outcomes using lagged features from a dataset, optimizing model performance with hyperparameter tuning and cross-validation.
+This project focuses on building and evaluating regression models for time series data across 12 sectors for consumer spending. The goal is to predict sector-specific outcomes using lagged features from a dataset, optimising model performance with hyperparameter tuning and cross-validation.
 
 <a href="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast">
   <img src="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast/blob/main/Project%20Images/Dashboard.gif" width="100%" />
