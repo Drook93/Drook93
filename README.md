@@ -67,7 +67,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://raw.githubusercontent.com/Drook93/ONS-Govenment-Public-Spending-Forecast/main/Project%20Images/opengraph.png" width="70%">
 </p>
 
-**This project focuses on building and evaluating regression models with random-forest for time series data across 12 sectors for consumer spending. The goal is to predict sector-specific outcomes using lagged features from a dataset, optimising model performance with hyperparameter tuning and cross-validation.**
+**This project focuses on building and evaluating regression models (Lasso & Ridge) with a random-forest for time-series data across 12 sectors for consumer spending. The goal is to predict each sector-specific spending using lagged features from a dataset and to test to see if they have any statistical significance by carrying out hypothesis tests such as (Granger/Var/IRF/Peason-C) to find winning features. Optimised the model's performance with hyperparameter tuning and validation with GridSearch CV.**
 
 <a href="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast">
   <img src="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast/blob/main/Project%20Images/Dashboard.gif" width="100%" />
