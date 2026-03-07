@@ -1,13 +1,38 @@
-<h1 align="center">Hi 👋, I'm David Rook</h1>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/ezgif.com-video-to-gif-converter%20(2).gif" width="500" height="500"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=50&lines=See+project+overview+below+👇)](https://git.io/typing-svg)
+
+</div>
+
 <h3 align="center">Aspiring Data Scientist & Analyst | Lifelong Learner 📖</h3>
 
-![Snake animation](https://github.com/Drook93/Work-flow-Assets/blob/output/github-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/output/github-snake.svg" width="600" height="200"/>
+</div>
 
-- 🔭 I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast.git)
-
-- 📫 How to reach me **david-rook93@hotmail.co.uk**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
+</div>
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/15ze_9PYx33K_loznYSKn4PUWv-vmR813/view?usp=sharing**
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
+</div>
 
 ## Programming Languages and Libraries 📖
 
@@ -21,6 +46,12 @@
 ## Data Visulalisation Tools & BI Tools
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+
+- 🔭 I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast.git)
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -105,12 +136,20 @@ The primary goal was to extract, clean, and transform the data into a MYSQL data
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
+</div>
+
 ## Certifications
 
 | **IBM Data Science Professional Certificate** | **Python Development Course** |
 |-----------------------------------------------|------------------------------|
 | <img src="https://github.com/Drook93/test/blob/main/IBM%20Cert.png?raw=true" width="550"/> | <img src="https://github.com/Drook93/test/blob/main/Python%20Cert.png?raw=true" width="550"/> |
 | **Year:** July, 2024 <br> [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JVZ4MT4JQGDS) | **Year:** Feb, 2024 <br> [View Certificate](https://www.learnx.org/certificate/eac3a27f-403f-46c1-8f8f-44c9fd22ad47) |
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
