@@ -1,5 +1,5 @@
 
-<h3 align="center">Aspiring Data Scientist & Analyst | Life long Learner 📖</h3>
+<h3 align="center"> Life long Learner 📖</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
