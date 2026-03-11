@@ -1,5 +1,5 @@
 
-<h3 align="center"> Life long Learner 📖</h3>
+<h3 align="center"> Data Analyst | Transitioning from being Vibration Analyst in condition-based monitoring | Built real dashboards + predictive models 📖 This page showcases my projects of creative learning for data analysis with some data science.</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
@@ -62,7 +62,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://raw.githubusercontent.com/Drook93/ONS-Govenment-Public-Spending-Forecast/main/Project%20Images/opengraph.png" width="70%">
 </p>
 
-**This project focuses on building and evaluating regression models (Lasso & Ridge) with a random-forest for time-series data across 12 sectors for consumer spending. The goal is to predict each sector-specific spending using lagged features from a dataset and to test to see if they have any statistical significance by carrying out hypothesis tests such as (Granger/Var/IRF/Peason-C) to find winning features. Optimised the model's performance with hyperparameter tuning and validation with GridSearch CV.**
+**Conducted time-series analysis on consumer spending across 12 sectors, developing predictive models (Lasso, Ridge, Random Forest) using engineered lagged features. Applied statistical tests including Granger causality, VAR, IRF, and Pearson correlation to identify significant relationships and key drivers. Enhanced model accuracy through hyperparameter optimisation and cross-validation using GridSearchCV..**
 
 <a href="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast">
   <img src="https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast/blob/main/Project%20Images/Dashboard.gif" width="100%" />
@@ -80,7 +80,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://raw.githubusercontent.com/Drook93/Global-Video-Game-Sales/main/Tableau%20Dashboard/Images%20%26%20Videos/Video%20Game%20Sales%20Banner-1.png" width="200%">
 </div>
 
-**This project forecasts global video game sales and using Prophet model on Kaggle's dataset which included the following features: Game-Name, Platform, Release Year, Genre, Publisher, Global Sales and Regional Sales breakdown. I cleaned the data in pandas. Built, trained/tuned Prophet and ran developed a Tableau dashboard for the findings. Utilised the native forecasting tool to predict one year ahead into 2017.**
+**This project forecasts global video game sales and using Prophet model on Kaggle's dataset which included the following features: Game-Name, Platform, Release Year, Genre, Publisher, Global Sales and Regional Sales breakdown. I cleaned the data in pandas. Utilised the native forecasting tool to predict one year ahead into 2017.**
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/Global-Video-Game-Sales/blob/main/Tableau%20Dashboard%20gif.gif" width="100%" />
@@ -100,7 +100,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Side%201%20Image_page-0001.jpg" width="70%">
 </p>
 
-**Gathered information on SpaceX and created dashboards to predict if the first stage will be reused, using machine learning and public data to estimate launch costs. The end product of this project is a machine learning pipeline to predict the landing outcome of Falcon 9 using various classification models to test model accuracy with a confusion matrix to identify landing outcomes; the first stage of any rocket.**
+**Analysed publicly available SpaceX launch data to investigate factors influencing Falcon 9 first-stage landing success. Developed dashboard and a machine learning pipeline using classification models to predict landing outcomes, evaluating model performance with confusion matrices and accuracy metrics.**
 
 <a href="https://github.com/Drook93/Global-Video-Game-Sales">
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Space%20X%20Capstone%20Powerpoint%20gif.gif" width="100%" />
