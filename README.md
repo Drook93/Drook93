@@ -99,7 +99,7 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
 
 <td width="50%" align="center">
 
-### Project 3 IBM Data Science Capstone SpaceX 🚀
+### Project 3 IBM Capstone SpaceX 🚀
 
 <p align="center">
   <img src="https://github.com/Drook93/IBM-Data-Science-Capstone-SpaceX/blob/main/Side%201%20Image_page-0001.jpg" width="70%">
@@ -142,7 +142,6 @@ I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://gith
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
 </div>
 
-## Certifications
 
 ## Certifications
 
