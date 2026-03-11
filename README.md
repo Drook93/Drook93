@@ -1,6 +1,12 @@
 
 <h3 align="center"> Data Analyst | Transitioning from being Vibration Analyst in condition-based monitoring | Built real dashboards + predictive models 📖 This page showcases my projects of creative learning for data analysis with some data science.</h3>
 
+### Most recent project: Latest UK Crime Stats
+
+<div align="left">
+  <img src="https://github.com/Drook93/UK-Crime-Data/blob/main/Crime%20UK%20Dashboard.gif" width="500" height="500"/>
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
 </div>
@@ -43,7 +49,6 @@
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 
-I’m currently working on [ONS-Govenment-Public-Spending-Forecast](https://github.com/Drook93/ONS-Govenment-Public-Spending-Forecast.git)
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="1000" height="5"/>
