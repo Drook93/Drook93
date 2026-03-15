@@ -1,5 +1,5 @@
 
-<h3 align="center"> Data Analyst | Transitioning from being Vibration Analyst in condition-based monitoring | Built real dashboards + predictive models 📖 This page showcases my projects of creative learning for data analysis with some data science.</h3>
+<h3 align="center"> Data Science | Transitioning from being Vibration Analyst in condition-based monitoring | Built real dashboards + predictive models 📖 This page showcases my projects of creative learning with Data Science.</h3>
 
 ### Most recent project: Latest UK Crime Stats
 
