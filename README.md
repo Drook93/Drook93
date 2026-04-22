@@ -1,15 +1,6 @@
 
 <h3 align="center"> Data Science | Transitioning from being a Vibration Analyst in condition-based monitoring | Built real dashboards + predictive models 📖 This page showcases my projects of creative learning with Data Science.</h3>
 
-### Most recent project: Latest UK Crime Stats
-
-<div align="left">
-  <img src="https://github.com/Drook93/UK-Crime-Data/blob/main/Crime%20UK%20Dashboard.gif" width="500" height="500"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/dividers.gif" width="600" height="5"/>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drook93/Work-flow-Assets/main/ezgif.com-video-to-gif-converter%20(2).gif" width="500" height="500"/>
@@ -163,6 +154,10 @@
 </p>
 
 **This is a full lifecycle pipeline for animal detection and classification from video data. Starts with data ingestion from APIs, YOLO-based object detection, metadata extraction, database storage with FastAPI for querying the findings. This is the complete full production infrastructure with Docker, Airflow for orchestration with monitoring.**
+
+<a href="YOUR_REPO_URL">
+  <img src="https://github.com/Drook93/Animal-Vision-Pipeline/blob/main/Documents/images/SYSTEM_TOPOLOGOY_DESIGN.drawio.svg" width="100%" />
+</a>
 
 </td>
 
